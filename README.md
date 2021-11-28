@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋🏻
 Passionate about learning new technology and tries to implement it’s utility effectively in a project.
 And always on a quest for knowledge in diversified fields and wish to know about how things work at a deeper level.
 
